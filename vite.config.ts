@@ -9,6 +9,6 @@ export default defineConfig({
   base: '/hello-vite-vue/',
   plugins: [vue()],
   build: {
-    outDir: './doc'
+    outDir: './docs'
   }
 })
